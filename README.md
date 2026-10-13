@@ -23,7 +23,6 @@ Cada pasta neste repositório representa uma disciplina específica. Dentro de c
 
 Abaixo estão os principais destaques:
 
-| Projeto | Matéria / Semestre | Descrição | Tecnologias |
 | **Busca-Comparativa-Algoritmos** | [Ex:Java POO | | 3° Semestre |Programa em Java que mede e compara o desempenho em tempo real entre a busca sequencial e a busca binária em diferentes volumes de dados. | `JAVA` |
 
 
@@ -36,4 +35,4 @@ Caso queira clonar este repositório e testar os códigos na sua máquina:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone [https://github.com/erikgms/Projetos-Faculdade](https://github.com/erikgms/Projetos-Faculdade)
